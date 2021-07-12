@@ -1,0 +1,12 @@
+C:\Users\Melis\source\repos\UploadData\UploadData\bin\Debug\UploadData.exe.config
+C:\Users\Melis\source\repos\UploadData\UploadData\bin\Debug\UploadData.exe
+C:\Users\Melis\source\repos\UploadData\UploadData\bin\Debug\UploadData.pdb
+C:\Users\Melis\source\repos\UploadData\UploadData\bin\Debug\EntityFramework.dll
+C:\Users\Melis\source\repos\UploadData\UploadData\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Melis\source\repos\UploadData\UploadData\bin\Debug\EntityFramework.xml
+C:\Users\Melis\source\repos\UploadData\UploadData\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Melis\source\repos\UploadData\UploadData\obj\Debug\UploadData.csprojAssemblyReference.cache
+C:\Users\Melis\source\repos\UploadData\UploadData\obj\Debug\UploadData.csproj.CoreCompileInputs.cache
+C:\Users\Melis\source\repos\UploadData\UploadData\obj\Debug\UploadData.csproj.CopyComplete
+C:\Users\Melis\source\repos\UploadData\UploadData\obj\Debug\UploadData.exe
+C:\Users\Melis\source\repos\UploadData\UploadData\obj\Debug\UploadData.pdb
